@@ -1,7 +1,7 @@
 
 # Khronos Ransomware Decrypter
 
-### First Of All - A bit of backstory
+## First Of All - A bit of backstory
 Back in July 2023 I began to mess around with malware and created a ransomware family of my own - AGAMEMNON.
 
 The last ransomware variant I created was Khronos and I uploaded it to [VirusTotal](https://www.virustotal.com/gui/file/8a67095ffe3b50eadae2a474ab6dbb691fb6e50784c8f6e569da9a0a7cff7135/detection) (big mistake, I know).
@@ -14,7 +14,7 @@ I have NEVER distributed my ransomware or ever will. Please do not use Combo Cle
 
 I only made these for fun and with no intention to infect anyone and profit.
 
-### Okay, how do I decrypt now?
+## Okay, how do I decrypt now?
 
 I am going to repeat this - do not use other software. I am not saying that all of them are bad, some of them maybe can decrypt this but they will shove unnecessary software / purchases down your throat.
 
@@ -29,7 +29,7 @@ You have to make sure that these three files are in the same directory with the 
 Then just run ```Decrypter.exe``` and you should be free
 
 P.S. Sorry if you got infected
-### Screenshots *(pulled from PCRisk)*
+## Screenshots *(pulled from PCRisk)*
 
 #### File Extension
 ![File Extension](https://www.pcrisk.com/images/stories/screenshots202307/khronos-ransomware-encrypted-files.jpg)
